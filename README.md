@@ -10,4 +10,3 @@ This is a virtual reality rhythm shooter game built for SteamVR systems that I d
 4. When analysis is finished, Play will appear, press this and the game will start in 15 seconds
 5. As targets start to move with the song, shoot the pink ones with the right gun and the blue ones with the left gun
 6. When the song is over, the game will wait 15 seconds and then return to this menu (remember to take off HMD and return to PC)
-
