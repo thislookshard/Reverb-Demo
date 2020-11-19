@@ -1,8 +1,7 @@
 # Reverb Demo
 This is a virtual reality rhythm shooter game built for SteamVR systems that I developed as my senior project at school. It is designed to dynamically generate levels to the user's MP3 or WAV files. Unfortunately due to COVID-19 I had to leave campus (and the technology I was using to make it) before I could add a virtual reality UI, so it just has a simple desktop UI for the time being.
 
-If anyone is interesed, I also wrote an honors thesis on the relationship between virtual reality and cinema.
-[Click here to read the paper](https://lux.lawrence.edu/luhp/153/ "Lawrence University Honors Projects")
+If anyone is interesed, I also wrote an honors thesis on the relationship between virtual reality and cinema.  [Click here to read the paper](https://lux.lawrence.edu/luhp/153/ "Lawrence University Honors Projects")
 
 ---
 
