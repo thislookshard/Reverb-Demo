@@ -12,4 +12,4 @@ If anyone is interesed, I also wrote an honors thesis on the relationship betwee
 3. Put on the HMD and get ready to play
 4. When analysis is finished, Play will appear, press this and the game will start in 15 seconds
 5. As targets start to move with the song, shoot the pink ones with the right gun and the blue ones with the left gun
-6. When the song is over, the game will wait 15 seconds and then return to this menu (remember to take off HMD and return to PC)
+6. When the song is over, the game will wait 15 seconds and then return to desktop menu (remember to take off HMD and return to PC)
